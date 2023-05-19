@@ -2,6 +2,7 @@
 
 int fun_calculateSum(int a, int b) {
     int sum = a - b;
+    int sum=b-a;
     return sum;
 }
 
